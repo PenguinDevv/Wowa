@@ -17,7 +17,7 @@ Many QOL Updates
 Combat Overhaul
 
 👨‍💻 Github:
-Our Github is coming soon. Once it's up you will be able to download beta updates before they come out on Modrinth.
+Our Github is (https://github.com/PenguinDevv/Wowa/tree/main)
 
 ❔ Curseforge:
 There is no port planned for Curseforge. This may change in the future but currently I have no plans to do this.
